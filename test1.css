@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    padding: 0;
+}
+
+
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 17.5% 17.5% 17.5% 17.5% 17.5% 17.5% ;
+    grid-template-rows: 10% 20% 45% 15%;
+    grid-gap: 10px;
+    background-color: #fff;
+    color: #444;
+    height: 100%;
+}
+
+
+.box {
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+}
+
