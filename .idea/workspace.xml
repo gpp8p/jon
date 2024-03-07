@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d2210c8-0ccc-454d-9d9d-fb2417a25769" name="Default Changelist" comment="" />
+    <list default="true" id="1d2210c8-0ccc-454d-9d9d-fb2417a25769" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/921.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSC02187.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway Arch.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG_1273.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MVC-002F.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STE_1182.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomic2.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomic6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomic7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptercss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chetro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fajada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footdrums.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goldenSpike.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history_content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history_sites.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jimjudge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jon_0306.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mushroom-cloud-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pueblo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pueblo_bonito.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redw1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redw2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redw3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redw4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redw5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redw6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redw7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rosevelt1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike2a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike2b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike2c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike2d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vegas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/bio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/history.css" beforeDir="false" afterPath="$PROJECT_DIR$/history.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jon_draft1.tar" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,17 +62,24 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2cHjMBlxF2JNHMcvs3FvLlKLg0k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -56,17 +115,48 @@
       <workItem from="1707920100843" duration="7349000" />
       <workItem from="1708035662152" duration="607000" />
       <workItem from="1708094306752" duration="3073000" />
-      <workItem from="1708352498108" duration="3938000" />
+      <workItem from="1708352498108" duration="4409000" />
+      <workItem from="1708374148423" duration="7000" />
+      <workItem from="1708433303385" duration="5105000" />
+      <workItem from="1708524214771" duration="6038000" />
+      <workItem from="1708963712495" duration="2729000" />
+      <workItem from="1709057251865" duration="2721000" />
+      <workItem from="1709140273119" duration="4038000" />
+      <workItem from="1709220551110" duration="3327000" />
+      <workItem from="1709401375639" duration="2877000" />
+      <workItem from="1709427428231" duration="414000" />
+      <workItem from="1709431818839" duration="222000" />
+      <workItem from="1709481015078" duration="346000" />
+      <workItem from="1709566827558" duration="4763000" />
+      <workItem from="1709664450846" duration="885000" />
+      <workItem from="1709760347016" duration="2715000" />
+      <workItem from="1709820646021" duration="1000000" />
+      <workItem from="1709827250513" duration="1151000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="281" width="1349" height="609" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1708355866089">
+    <state x="784" y="417" key="Github.ShareDialog" timestamp="1708372922803">
       <screen x="0" y="25" width="1920" height="1000" />
     </state>
-    <state x="184" y="281" width="1349" height="609" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1920.1000@0.25.1920.1000" timestamp="1708355866089" />
+    <state x="784" y="417" key="Github.ShareDialog/0.25.1920.1000@0.25.1920.1000" timestamp="1708372922803" />
+    <state x="741" y="225" key="Github.UntrackedFilesDialog" timestamp="1708372929429">
+      <screen x="0" y="25" width="1920" height="1000" />
+    </state>
+    <state x="741" y="225" key="Github.UntrackedFilesDialog/0.25.1920.1000@0.25.1920.1000" timestamp="1708372929429" />
+    <state x="184" y="281" width="1349" height="609" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1709401838535">
+      <screen x="0" y="25" width="1920" height="1000" />
+    </state>
+    <state x="184" y="281" width="1349" height="609" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1920.1000@0.25.1920.1000" timestamp="1709401838535" />
+    <state x="579" y="222" width="877" height="501" key="find.popup" timestamp="1709572834256">
+      <screen x="0" y="25" width="1920" height="1000" />
+    </state>
+    <state x="579" y="222" width="877" height="501" key="find.popup/0.25.1920.1000@0.25.1920.1000" timestamp="1709572834256" />
   </component>
 </project>

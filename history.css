@@ -19,6 +19,19 @@ body {
     grid-gap: 10px;
     height: 100%;
 }
+.wrapper1 {
+    display: grid;
+    grid-template-columns: 17.5% 17.5% 17.5% 17.5% 17.5% 17.5% ;
+    grid-template-rows: 5% 15% 80%;
+    grid-gap: 10px;
+    height: 100%;
+}
+.wrapper3 {
+    display: grid;
+    grid-template-rows: 5% 15% 80%;
+    grid-gap: 10px;
+    height: 100%;
+}
 
 
 .hdr1 {
@@ -36,18 +49,30 @@ body {
     margin-top: 6px;
 }
 .linkText {
-    font-family: "Times New Roman";
-    font-size: larger;
+    font-family:"Times New Roman";
+    font-size: xx-large;
     font-weight: bolder;
-    color: #051df6;
-
+    color: #f50c1f;
+}
+.linkTextNormal {
+    font-family:"Times New Roman";
+    font-weight: bolder;
+    color: #fcfbfa;
+    font-size: 24px;
+}
+.linkTextNormal:hover {
+    color: #f50c1f;
+}
+.linkText:hover {
+    text-decoration: none;
+    color: #f30303;
 }
 .textLink {
-    color: #ec9292;
+    color: #f8d007;
 }
 textLink:hover {
     text-decoration: none;
-    color: #f60707;
+    color: #f30327;
 }
 a:link {
     text-decoration: none;
@@ -68,18 +93,24 @@ a:hover {
 }
 .title2 {
     font-family: "Times New Roman";
-    font-size: larger;
+    font-size: medium;
     font-weight: bolder;
     color: #f7faf7;
     text-align: center;
     margin-left: 40%;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    overflow-y: scroll;
+
 }
+
 .title3 {
     font-family: "Times New Roman";
     font-size: 25px;
     color: #ffffff;
     text-align: center;
 }
+
 .hdr2 {
     grid-column-start: 3;
     grid-column-end: 5;
@@ -92,14 +123,50 @@ a:hover {
     grid-column-end: 3;
     grid-row-start: 3;
     grid-row-end: 3;
+    margin-left: 10%;
 
+}
+.topspacer {
+    margin-top: 10%;
 }
 .content2 {
     grid-column-start: 5;
     grid-column-end: 7;
     grid-row-start: 3;
     grid-row-end: 3;
+    overflow: scroll;
 }
+
+.content3 {
+    grid-column-start: 2;
+    grid-column-end: 7;
+    grid-row-start: 3;
+    grid-row-end: 3;
+    height: 90%;
+}
+
+.content4 {
+    height: 90%;
+    color: white;
+    margin-left: 15%;
+    margin-right: auto;
+    margin-top: 20px;
+    font-weight: bolder;
+
+}
+.sites1 {
+    display: grid;
+    grid-template-columns: 15% 85%;
+    grid-template-rows: 25% 25% 25% 25%;
+    height: 100%;
+}
+.siteImg {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
 .footer1 {
     grid-column-start: 2;
     grid-column-end: 6;
@@ -115,6 +182,14 @@ a:hover {
     margin-top: 10px;
 }
 .box {
-    background-color: darkred;
+
+}
+.blurb {
+    font-size: larger;
+    font-weight: bolder;
+    color: #f7faf7;
+    margin-right: 25%;
+    margin-left:10%;
+    margin-top: 20px;
 }
 
